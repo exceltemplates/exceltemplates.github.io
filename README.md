@@ -1,4 +1,5 @@
 # Catalog of Dashboards Developed in Excel and Google Sheets
+
  
 <table>
   <tr>
@@ -19,8 +20,6 @@
   </tr>
 </table>
 
---------------------------------------------------------
-
 <table>
   <tr>
  <td><b>Leads Generation Analysis Excel Template</b></td>
@@ -28,8 +27,8 @@
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.templarket.com/collections/newly-published/products/leads-generation-analysis-excel-template#gallery-1">
-        <img src="https://github.com/user-attachments/assets/26b8e8c3-9f45-45f2-81a6-cce53d409d51" style="width: 600px; height: 300px;">
+      <a href="https://www.templarket.com/products/simple-financial-management-excel-template?_pos=2&_sid=2637eb4dc&_ss=r#gallery-1">
+        <img src="https://github.com/user-attachments/assets/66d13bcf-c4e9-4fc6-b059-1b29f20cf1ae" style="width: 600px; height: 300px;">
       </a>
     </td>
     <td valign="top">
