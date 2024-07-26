@@ -28,7 +28,8 @@
 
 <table>
   <tr>
- <td><b>Leads Generation Analysis Excel Template</b></td>
+ <td><b>Employee Appraisal Working</b></td>
+   <td><b>Manufacturing KPI Management</b></td>
   </tr>
   <tr>
     <td valign="top">
@@ -36,6 +37,10 @@
         <img src="https://github.com/user-attachments/assets/928aac19-5205-43f0-a181-0c17d726150b" style="width: 600px; height: 250px;">
       </a>
     </td>
+       <td valign="top">
+      <a href="https://www.templarket.com/products/manufacturing-kpi-management-excel-dashboard?_pos=1&_sid=ce62f15c6&_ss=r#gallery-1">
+        <img src="https://github.com/user-attachments/assets/e0ee84f6-e5e9-486d-876b-389697691a38" style="width: 600px; height: 250px;">
+      </a>
+    </td>
   </tr>
 </table>
-
