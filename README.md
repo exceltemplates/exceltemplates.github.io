@@ -1,6 +1,6 @@
-<h1>Catalog of Dashboards Developed in Excel and Google Sheets</h1>
+<h1> Catalog of Dashboards Developed in Excel and Google Sheets </h1>
 
-### Leads Generation Analysis Excel Template
+## Leads Generation Analysis Excel Template
 
 Utilizing this template, you can effectively manage leads generated from your advertising efforts across various platforms and track the ROI of those leads.
 
