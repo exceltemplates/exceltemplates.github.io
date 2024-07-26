@@ -93,18 +93,18 @@
   </tr>
 </table>
 
-<table>
+<table style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <tr>
-   <td><b>Excel Dashboard for Safety</b></td>
+    <td style="text-align: center; font-weight: bold;">Excel Dashboard for Safety</td>
   </tr>
   <tr>
-    <td valign="top">
+    <td>
       <a href="https://www.templarket.com/products/excel-safety-dashboard?_pos=1&_sid=7d39a1e3f&_ss=r#gallery-1">
-        <img src="https://github.com/user-attachments/assets/042670a2-e428-4ceb-a7fe-f417b8cc4fbb" style="width: 1000px; height: 500px;">
+        <img src="https://github.com/user-attachments/assets/042670a2-e428-4ceb-a7fe-f417b8cc4fbb" alt="Excel Safety Dashboard" style="width: 100%; height: auto;">
       </a>
+    </td>
   </tr>
 </table>
-
 
 
 
