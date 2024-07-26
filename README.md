@@ -48,31 +48,33 @@
 <table>
   <tr>
    <td><b>Financial Product Management</b></td>
-   <td><b>Excel Dashboard for Safety</b></td>
    <td><b>Profit and Loss Template</b></td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://www.templarket.com/products/financial-product-management-excel-template?_pos=1&_sid=a43f1dff1&_ss=r#gallery-1">
-        <img src="https://github.com/user-attachments/assets/f6ce64f9-4bef-4800-a79d-afc4bc17805c" style="width: 400px; height: 200px;">
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.templarket.com/products/excel-safety-dashboard?_pos=1&_sid=7d39a1e3f&_ss=r#gallery-1">
-        <img src="https://github.com/user-attachments/assets/042670a2-e428-4ceb-a7fe-f417b8cc4fbb" style="width: 400px; height: 200px;">
+        <img src="https://github.com/user-attachments/assets/f6ce64f9-4bef-4800-a79d-afc4bc17805c" style="width: 600px; height: 250px;">
       </a>
     </td>
        <td valign="top">
       <a href="https://www.templarket.com/products/profit-and-loss-template?_pos=1&_sid=a37ec731e&_ss=r#gallery-1">
-        <img src="https://github.com/user-attachments/assets/a453e504-94e0-4c3d-93f4-4f6edb03c994" style="width: 400px; height: 200px;">
+        <img src="https://github.com/user-attachments/assets/a453e504-94e0-4c3d-93f4-4f6edb03c994" style="width: 600px; height: 250px;">
       </a>
     </td>
   </tr>
 </table>
 
-
-![profit-loss-statement-excel-profit-and-loss-template](https://github.com/user-attachments/assets/a453e504-94e0-4c3d-93f4-4f6edb03c994)
-
+<table>
+  <tr>
+   <td><b>Excel Dashboard for Safety</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.templarket.com/products/excel-safety-dashboard?_pos=1&_sid=7d39a1e3f&_ss=r#gallery-1">
+        <img src="https://github.com/user-attachments/assets/042670a2-e428-4ceb-a7fe-f417b8cc4fbb" style="width: 1000px; height: 500px;">
+      </a>
+  </tr>
+</table>
 
 
 
