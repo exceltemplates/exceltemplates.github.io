@@ -2,8 +2,9 @@
 
 <table>
   <tr>
-    <td> Leads Generation Analysis Excel Template </td>
-    <td>Recruitment Management Excel Template</td>
+ <td><b>Leads Generation Analysis Excel Template</b></td>
+<td><b>Recruitment Management Excel Template</b></td>
+
   </tr>
   <tr>
     <td valign="top">
