@@ -1,3 +1,20 @@
+# Title
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+    <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/26b8e8c3-9f45-45f2-81a6-cce53d409d51" alt="First Screen Page"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/73f2e34d-74a5-465c-80f5-5864eac4dab7" alt="First Screen Page"></td>
+  </tr>
+</table>
+
+
+
+
+
 <h1> Catalog of Dashboards Developed in Excel and Google Sheets </h1>
 
 
@@ -13,4 +30,6 @@ Utilizing this template, you can effectively manage leads generated from your ad
 One good employee is worth a thousand bad employees. Good employee is capable of unlocking systems, growth and innovation beyond their pay grade. But to see the fruits of their labor, they need to work for you and not the other guy.
 
 [![hafiz-shoaib-ali-recruitment-management-excel-template](https://github.com/user-attachments/assets/73f2e34d-74a5-465c-80f5-5864eac4dab7)](https://www.templarket.com/products/recruitment-management-excel-template)
+
+
 
