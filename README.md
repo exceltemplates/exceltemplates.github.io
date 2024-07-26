@@ -33,10 +33,9 @@
     </td>
     <td valign="top">
       <a href="https://www.templarket.com/products/employee-appraisal-working-excel-template?_pos=1&_sid=5ee5caea9&_ss=r#gallery-1">
-        <img src="https://github.com/user-attachments/assets/73f2e34d-74a5-465c-80f5-5864eac4dab7" style="width: 600px; height: 300px;">
+        <img src="https://github.com/user-attachments/assets/928aac19-5205-43f0-a181-0c17d726150b" style="width: 600px; height: 250px;">
       </a>
     </td>
   </tr>
 </table>
-
 
