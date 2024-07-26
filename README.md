@@ -79,6 +79,33 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+ <td><b>Freight Management</b></td>
+ <td><b>RHotel Reservation Template</b></td>
+ <td><b>Etsy Seller Template</b></td>
+   
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.templarket.com/products/freight-management-excel-dashboard-template?_pos=1&_sid=656ddf327&_ss=r#gallery-2">
+        <img src="https://github.com/user-attachments/assets/ddd7f5d6-5df4-48ca-8073-1f86a45eec71" style="width: 400px; height: 200px;">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.templarket.com/products/hotel-reservation-template-and-dashboard?_pos=2&_sid=f5f942079&_ss=r#gallery-1">
+        <img src="https://github.com/user-attachments/assets/0a60d628-1ae6-4ff1-bc34-b7026ff1aa33" style="width: 400px; height: 200px;">
+      </a>
+    </td>
+       <td valign="top">
+      <a href="https://www.templarket.com/products/etsy-seller-excel-template?_pos=1&_sid=2a80640c0&_ss=r#gallery-1">
+        <img src="https://github.com/user-attachments/assets/8890568c-8749-41f6-a14b-0d396dfcecef" style="width: 400px; height: 200px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
