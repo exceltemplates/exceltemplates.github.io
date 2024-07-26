@@ -1,23 +1,25 @@
 # Title
 
+
 <table>
   <tr>
-    <td>First Screen Page</td>
-    <td>Holiday Mention</td>
+    <td> Leads Generation Analysis Excel Template </td>
+    <td>Recruitment Management Excel Template</td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.templarket.com/collections/newly-published/products/leads-generation-analysis-excel-template">
-        <img src="https://github.com/user-attachments/assets/26b8e8c3-9f45-45f2-81a6-cce53d409d51" alt="First Screen Page">
+      <a href="https://www.templarket.com/collections/newly-published/products/leads-generation-analysis-excel-template#gallery-1">
+        <img src="https://github.com/user-attachments/assets/26b8e8c3-9f45-45f2-81a6-cce53d409d51">
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.templarket.com/products/recruitment-management-excel-template">
-        <img src="https://github.com/user-attachments/assets/73f2e34d-74a5-465c-80f5-5864eac4dab7" alt="Holiday Mention">
+      <a href="https://www.templarket.com/products/recruitment-management-excel-template#gallery-1">
+        <img src="https://github.com/user-attachments/assets/73f2e34d-74a5-465c-80f5-5864eac4dab7">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
