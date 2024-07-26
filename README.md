@@ -1,11 +1,14 @@
 # Catalog of Dashboards Developed in Excel and Google Sheets
 
- 
+- <td><b>Click on the image to access the complete details of the specific template</b></td>
+                    
+  
 <table>
   <tr>
-   <td><b>Leads Generation Analysis</b></td>
-   <td><b>Recruitment Management</b></td>
-   <td><b>Employee Appraisal Working</b></td>
+ <td><b>Leads Generation Analysis</b></td>
+ <td><b>Recruitment Management</b></td>
+ <td><b>Employee Appraisal Working</b></td>
+   
   </tr>
   <tr>
     <td valign="top">
