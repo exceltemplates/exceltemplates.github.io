@@ -75,7 +75,16 @@
             height: 10vh; /* Full height of the viewport */
         }
  
-
+.logo {
+  position: absolute;
+  top: 10px; /* Adjust the top position as needed */
+  left: 10px; /* Adjust the left position as needed */
+  width: 50px; /* Increase size for better visibility */
+  height: auto; /* Maintain aspect ratio */
+  z-index: 10; /* Ensure logo is on top of other elements */
+  border: 2px solid red; /* Temporary border for visibility */
+  background-color: yellow; /* Temporary background color for visibility */
+}
 
     </style>
 </head>
@@ -101,7 +110,17 @@
     </div>
 
 
-
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <img src="https://github.com/user-attachments/assets/a7abb257-03d3-45e1-88c6-76530bfab0b5" alt="Your Logo" class="logo">
+  <!-- Other content -->
+</body>
+    
 <div class="image-container">
     <table>
         <tr>
