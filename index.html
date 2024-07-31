@@ -12,9 +12,7 @@
     width: 100%;
     margin-bottom: 30px; /* Adjust bottom margin as needed */
     background-color: #024f4d; /* Background color for the table */
-    border: 1px solid #ddd; /* Border for the table */
-    border-radius: 4px; /* Border radius for the table */
-    padding: 10px; /* Padding inside the table cell */
+    border-radius: px; /* Border radius for the table */
     color: #ffffff; /* Font color for the text */
     font-size: 10px; /* Set the font size */
     border-radius: 10px;
@@ -23,6 +21,8 @@
 .MainHeading-table p {
     font-size: 40px; /* Ensure the font size is applied to <p> elements inside the table */
 }
+
+
         .image-container {
             display: flex;
             justify-content: space-between;
@@ -69,12 +69,18 @@
             color: #333;
         }
         .instructions {
-            line-height: 1.5; /* Adjust line-height for better spacing */
-            text-align: center; /* Center text horizontally */
-            font-size: 20px; /* Set the font size */
-            margin-bottom: 20px; /* Adjust bottom margin as needed */
-            color: #26B5AA; /* Set the text color */
+            text-align: center;
+            margin: 0 auto;
+             color: #096D60;
+              font-size: 20px;
         }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh; /* Full height of the viewport */
+        }
+ 
 
 
     </style>
@@ -84,7 +90,7 @@
 <table class="MainHeading-table">
     <tr>
         <td>
-            <p class="instructions">
+            <p class="MainHeading-table">
                 <b>Your trusted source of best practices<br>
                 Don't reinvent the wheel, your time is precious.</b>
             </p>
@@ -92,10 +98,13 @@
     </tr>
 </table>
 
- <p class="instructions">
-                <b>These are the templates developed by "HafizShoaib" that are now ready for use.<br>
-                Please click on the image to access the complete details of each specific template.</b>
-            </p>
+
+    <div class="container">
+        <p class="instructions">
+            <b>These are the templates developed by "HafizShoaib" that are now ready for use.<br>
+            Please click on the image to access the complete details of each specific template.</b>
+        </p>
+    </div>
 
 
 
