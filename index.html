@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: Calibri, sans-serif;
             margin: 10px;
             padding: 20px;
-            background-color: #eeeeee; /* Page background color */
+            background-color: #eeeeee;
         }
-.MainHeading-table {
-    width: 100%;
-    margin-bottom: 20px; /* Adjust bottom margin as needed */
-     margin-top: 20px; /* Adjust bottom margin as needed */
-    background-color: #024f4d; /* Background color for the table */
-    border-radius: px; /* Border radius for the table */
-    color: #ffffff; /* Font color for the text */
-    border-radius: 10px;
-}
-
-.MainHeading-table p {
-    font-size: 40px; /* Ensure the font size is applied to <p> elements inside the table */
-}
-
-
+        .MainHeading-table {
+            width: 100%;
+            margin: 20px 0;
+            background-color: #024f4d;
+            color: #ffffff;
+            border-radius: 10px;
+        }
+        .MainHeading-table p {
+            font-size: 40px;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
         .image-container {
             display: flex;
             justify-content: space-between;
@@ -31,25 +30,25 @@
         }
         table {
             width: 31.5%;
-            background-color: #FCFCFC; /* Image background color */
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            background-color: #FCFCFC;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             border-collapse: separate;
             border-spacing: 15px;
-            border-radius:20px;
+            border-radius: 20px;
         }
         td {
             padding: 1px;
             text-align: center;
-            border: 0px solid #ddd;
-            border-radius:8px;
+            border: 0;
+            border-radius: 8px;
         }
         .image-heading {
             display: block;
             font-size: 20px;
             color: #096D60;
-            height: 25px; /* Set the desired height here */
-            line-height: 25px; /* Center text vertically if needed */
-            overflow: hidden; /* Ensures text doesn't overflow if it exceeds the height */
+            height: 25px;
+            line-height: 25px;
+            overflow: hidden;
         }
         a {
             text-decoration: none;
@@ -58,45 +57,54 @@
         img {
             width: 100%;
             height: auto;
-            border: 0px solid #ddd;
+            border: 0;
             border-radius: 10px;
-            box-shadow: 0 0px 0px rgba(0,0,0,0.1);
+            box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
         }
         .instructions {
             text-align: center;
             margin: 0 auto;
-             color: #953030;
-              font-size: 20px;
-              margin-bottom: 20px; /* Adjust bottom margin as needed */
+            color: #953030;
+            font-size: 20px;
+            margin-bottom: 20px;
         }
         .container {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 10vh; /* Full height of the viewport */
+            height: 10vh;
         }
- 
-.logo {
-  position: absolute;
-  top: 50px; /* Adjust the top position as needed */
-  left: 50px; /* Adjust the left position as needed */
-  width: 170px; /* Increase size for better visibility */
-  height: 170px; /* Maintain aspect ratio */
-  z-index: 100; /* Ensure logo is on top of other elements */
-}
+        .logo {
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            width: 170px;
+            height: 170px;
+            z-index: 100;
+        }
+        .email-container {
+            position: fixed;
+            right: 33px;
+            top: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .email-container i {
+            margin-right: 8px;
+            color: #333;
+        }
+        .email-container a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
     </style>
-</head>
-
-<body>
-
-        <title>Email Icon</title>
-    <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <div class="email-container">
         <i class="fas fa-envelope"></i>
-        <a href="sheetsandexcel@gmail.com">sheetsandexcel@gmail.com</a>
+        <a href="mailto:sheetsandexcel@gmail.com">sheetsandexcel@gmail.com</a>
     </div>
 
     <table class="MainHeading-table">
