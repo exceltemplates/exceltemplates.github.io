@@ -184,35 +184,45 @@
             z-index: 10;
         }
 
-        /* Skype Button */
-        .skype-button {
-            position: absolute;
-            top: 10px;
-            right: 30px;
-            width: 50px;
-            height: 50px;
-            z-index: 100;
+/* Footer */
+        .footer {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            gap: 15px;
+            padding: 10px;
+            position: none;
+            bottom: 10px;
+            right: 10px;
+            z-index: 1000;
         }
-        
-        /* Skype Button Image */
-.skype-button img {
-    width: 70%;
-    height: 70%;
-    object-fit: cover; /* Adjust to contain or cover as needed */
-}
+
+        /* Logo Button Styles */
+        .logo-button {
+            position: relative;
+            display: inline-block;
+            text-decoration: none;
+        }
+
+        /* Logo Image Styles */
+        .logo-button img {
+            width: 30px;
+            height: 30px;
+            object-fit: cover;
+        }
 
         /* Tooltip Container */
         .tooltip-container {
             position: absolute;
-            top: 34%;
-            right: 90%;
-            margin-right: 10px;
-            transform: translateY(-50%);
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
             white-space: nowrap;
             z-index: 101;
+            display: none;
         }
 
-        /* Tooltip */
+        /* Tooltip Styles */
         .tooltip {
             background-color: #999999;
             color: #fff;
@@ -220,6 +230,12 @@
             border-radius: 4px;
             font-size: 12px;
         }
+
+        /* Show Tooltip on Hover */
+        .logo-button:hover .tooltip-container {
+            display: block;
+        }
+
     </style>
 </head>
 
@@ -245,18 +261,16 @@
             </td>
         </tr>
     </table>
+    
 
     <a href="https://www.linkedin.com/company/improveyourexcel" target="_blank">
         <img src="https://github.com/user-attachments/assets/a7abb257-03d3-45e1-88c6-76530bfab0b5" alt="Your Logo" class="logo">
-        <!-- Other content -->
+    <div class="tooltip-container">
+        <span class="tooltip">Connect with us on LinkedIn!</span>
+    </div>
     </a>
+ 
 
-    <a href="skype:live:live:hafizshoaibali?chat" target="_blank" class="skype-button">
-        <img src="https://github.com/user-attachments/assets/a0acd754-2d8d-43ab-9d61-23ec5b067f5f" alt="Chat on Skype" />
-        <div class="tooltip-container">
-            <span class="tooltip">Chat with us on Skype!</span>
-        </div>
-    </a>
     <div class="about-section">
         <h2>Welcome to Improve Your Excel!</h2>
         <p>Hello! I'm Hafiz, a dedicated data enthusiast. Professionally, I lead a team of enthusiastic and intellectual data analysts who are passionate about data analytics, reporting, dashboards, and automation. We utilize various tools, including Excel,
@@ -587,6 +601,30 @@
                         </td>
                     </tr>
         </table>
+    </div>
+    
+    
+
+    <div class="footer">
+        <a href="skype:live:live:hafizshoaibali?chat" target="_blank" class="logo-button skype-button">
+            <img src="https://github.com/user-attachments/assets/a0acd754-2d8d-43ab-9d61-23ec5b067f5f" alt="Chat on Skype" />
+            <div class="tooltip-container">
+                <span class="tooltip">Chat with us on Skype!</span>
+            </div>
+        </a>
+        <a href="https://twitter.com/yourprofile" target="_blank" class="logo-button twitter-button">
+            <img src="https://github.com/user-attachments/assets/fbe1d164-67e5-4009-becf-4e7d5f49ec7c" alt="Follow us on Twitter" />
+            <div class="tooltip-container">
+                <span class="tooltip">Follow us on Twitter!</span>
+            </div>
+        </a>
+        <a href="https://www.linkedin.com/company/improveyourexcel" target="_blank" class="logo-button linkedin-button">
+            <img src="https://github.com/user-attachments/assets/435b22ca-07ec-4f8d-8544-2be11b8cdfa3" alt="Connect with us on LinkedIn" />
+            <div class="tooltip-container">
+                <span class="tooltip">Connect with us on LinkedIn!</span>
+            </div>
+        </a>
+        <!-- Add more logos here as needed -->
     </div>
 </body>
 
